@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Contrôleur du volume</string>
-    <string name="app_description">Cette application permet de créer une notification ancrée
-        							avec deux bouttons pour contrôler le volume de la sonnerie
-     								et de la musique de votre appareil.\n
-     								Elle se lance automatiquement au démarrage du système.</string>
-    <string name="title_notification">Contrôleur du volume</string>
-    <string name="contentDescription_button_1">Volume de la musique</string>
-    <string name="contentDescription_button_2">Volume de la sonnerie</string>
-    <string name="contentDescription_icon">Icone du volume</string>
-    <string name="cantControlVolume">L'application ne peut pas contrôler le volume du votre appareil !</string>
+    <string name="app_name">Volume controller</string>
+    <string name="app_description">This application creates a ongoing notification
+                                    with the two buttons to control the volume of
+                                    ringtone and music from your device.\n
+                                    It launches automatically at system startup.</string>
+    <string name="title_notification">Volume controller</string>
+    <string name="contentDescription_button_1">Music volume</string>
+    <string name="contentDescription_button_2">Ringtone volume</string>
+    <string name="contentDescription_icon">Icon of volume</string>
+    <string name="cantControlVolume">The application can not control the volume of your device!</string>
 </resources>

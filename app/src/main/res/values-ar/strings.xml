@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المتحكّم بالصوت</string>
+    <string name="app_description">هذا التطبيق يسمح بإنشاء إشعار غير مزاح
+        							ذو زرين لتحكم بصوت الموسيقى و النغمة
+     								على جهازك.\n
+     								هذا التطبيق يشغل تلقائيا بعد تشغيل الجهاز.</string>
+    <string name="title_notification">المتحكّم بالصوت</string>
+    <string name="contentDescription_button_1">صوت الموسيقى</string>
+    <string name="contentDescription_button_2">صوت النغمة</string>
+    <string name="contentDescription_icon">إيقونة الصوت</string>
+    <string name="cantControlVolume">!التطبيق لم يتمكن من التحكم بصوت جهازك</string>
+</resources>
