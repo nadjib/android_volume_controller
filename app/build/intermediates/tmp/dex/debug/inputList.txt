@@ -1,0 +1,2 @@
+D:\TP\Android_Studio\AppControleVolume\app\build\intermediates\classes\debug
+D:\TP\Android_Studio\AppControleVolume\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-34716ba46676101354e3af9bfe930deec28971cf.jar
